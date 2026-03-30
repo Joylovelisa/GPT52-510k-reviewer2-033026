@@ -1,0 +1,15 @@
+streamlit
+openai
+anthropic
+google-generativeai
+pyyaml
+pandas
+numpy
+pypdf
+PyYAML
+altair
+httpx
+python-docx
+anthropic
+httpx
+reportlab
